@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/NextGen-Crew/",  
+    "build": "vite build --base=/115_html-css_Vitalii-Kryshtal/",  
     "preview": "vite preview"
   },
   "devDependencies": {
